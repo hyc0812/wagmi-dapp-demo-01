@@ -4,9 +4,9 @@ npm create wagmi@latest
 
 project name: wawgmi-dapp-demo-01
 
-React 
+select React 
 
-Next
+select Next
 
 cd wawgmi-dapp-demo-01
 
