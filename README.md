@@ -6,7 +6,7 @@ project name: wawgmi-dapp-demo-01
 
 select React 
 
-select Next
+select Next 2
 
 cd wawgmi-dapp-demo-01
 
