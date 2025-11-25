@@ -1,5 +1,5 @@
 ```
-npm create wagmi@latest
+npm create wagmi@latest 
 ```
 
 project name: wawgmi-dapp-demo-01
